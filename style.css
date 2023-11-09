@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "team-fortress";
+    src: url("./assets/tf2build.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 25px;
+}
+
+ul {
+    color: white;
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
+a {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+
+.hero-preview {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    background-color: #1f2937;
+}
+
+.hero-select {
+    flex: 1;
+}
+
+.footer {
+    font-family: 'team-fortress';
+    background-color: #1f2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 30px;
+}
