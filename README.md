@@ -1,8 +1,6 @@
 This is a landing site for the foundations course of the odin project, for learning purposes.
 
-html - done
-css - done
-js - not done
+html and css done, only javascript left
 
 images used: 
 - Crab image by Sergio Serjão from Pixabay - https://pixabay.com/photos/crab-beach-sand-crustacean-8258856/
