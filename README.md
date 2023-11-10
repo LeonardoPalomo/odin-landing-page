@@ -2,6 +2,8 @@ This is a landing site for the foundations course of the odin project, for learn
 
 html and css done, only javascript left
 
+live preview at https://leonardopalomo.github.io/odin-landing-page/
+
 images used: 
 - Crab image by Sergio Serjão from Pixabay - https://pixabay.com/photos/crab-beach-sand-crustacean-8258856/
 - Lasagna Image by HANSUAN FABREGAS from Pixabay - https://pixabay.com/illustrations/lasagna-snack-to-have-lunch-food-7577748/
